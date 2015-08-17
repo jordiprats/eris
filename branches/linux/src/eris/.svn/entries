@@ -1,0 +1,43 @@
+10
+
+dir
+162
+svn://172.16.101.1/eris/branches/linux/src/eris
+svn://172.16.101.1/eris
+
+
+
+2013-10-08T14:50:28.345592Z
+162
+jprats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c33f8b46-df23-4925-a822-fde55fbb644f
+
+main
+dir
+
+config
+dir
+
+db
+dir
+
+connector
+dir
+
+parser
+dir
+

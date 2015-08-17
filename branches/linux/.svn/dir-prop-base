@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 633
+bouncestats.script
+bouncestats.properties
+bouncestats.tmp
+bouncelist.tmp
+bouncelist.properties
+bouncelist.script
+bouncestats.lck
+bouncelist.lck
+bouncelist.7747e243ff1048981306d669807ac2c1.properties
+bouncelist.7747e243ff1048981306d669807ac2c1.script
+bouncestats.7747e243ff1048981306d669807ac2c1.properties
+bouncestats.7747e243ff1048981306d669807ac2c1.script
+bouncelist.cf50c95e24bafd7d3579c1d3ea140ec3.lck
+bouncelist.cf50c95e24bafd7d3579c1d3ea140ec3.properties
+bouncelist.cf50c95e24bafd7d3579c1d3ea140ec3.script
+bouncestats.cf50c95e24bafd7d3579c1d3ea140ec3.properties
+bouncestats.cf50c95e24bafd7d3579c1d3ea140ec3.script
+bouncelist.*
+
+END
